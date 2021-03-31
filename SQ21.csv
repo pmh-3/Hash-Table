@@ -1,0 +1,41 @@
+﻿courseNo,title,date,time,instructor
+CPSC 1000,Introduction to Computer Science,MW,3:40-5:45pm,Obare
+CPSC 1100,Introduction to Computers & Applications,TTh,6:00-8:05pm,Obare
+CPSC 1220,Data-Driven Problem Solving & Programming,MWF,12:30-1:55pm,Bae
+CPSC 1230,Programming and Data Types,MWF,12:30-1:55pm,Milkowski
+CPSC 1430,Programming and Problem Solving II,MWF,9:20-10:45am,Oh
+CPSC 2430,Data Structures,MWF,9:20-10:45am,Zhu
+CPSC 2430,Data Structures,MWF,10:55am-12:20pm,Reeder
+CPSC 2600,Foundations of Computer Science,MWF,2:05-3:30pm,Dingle
+CPSC 3200,Object-Oriented Development,MWF,10:55am-12:20pm,Dingle
+CPSC 3300,Fundamentals of Databases,TTh,1:30-3:35pm,Bae
+CPSC 3300,Fundamentals of Databases,TTh,1:30-3:35pm,Koenig
+CPSC 3400,Languages and Computation,MWF,2:05-3:30pm,Lundeen
+CPSC 3400,Languages and Computation,MWF,10:55am-12:20pm,Lundeen
+CPSC 3500,Computing Systems,MWF,12:30-1:55pm,Mishra
+CPSC 3500,Computing Systems,MWF,2:05-3:30pm,Mishra
+CPSC 3700,The Art of Web Design,MWF,12:30-1:55pm,Reeder
+CPSC 4220,User Experience Design,MW,3:40-5:45pm,Kong
+CPSC 4240,Software as a Service,MW,6:00-8:05pm,Yi
+CPSC 4300,Physical Database Design & Optimization,MW,3:40-5:45pm,Lundeen
+CPSC 4310,Machine Learning,TTh,1:30-3:35pm,Samavi
+CPSC 4400,Compiler Principles & Techniques,TTh,3:45-5:50pm,LeBlanc
+CPSC 4510,Computer Networks,MWF,2:05-3:30pm,Zhu
+CPSC 4910,Graphics/Game Project,TTh,3:45-5:50pm,Bloomenthal
+CPSC 5021,Database Systems,W,6:00-8:40pm,McKee
+CPSC 5031,Algorithms,T,3:45-6:25pm,Oh
+CPSC 5031,Algorithms,Th,6:00-8:40pm,Riley
+CPSC 5042,Computing System Principles II,Th,3:45-6:25pm,Samavi
+CPSC 5042,Computing System Principles II,T,6:00-8:40pm,Samavi
+CPSC 5910,Data Structures,M,6:00-8:40pm,McMaster
+CPSC 5200,Software Architecture and Design,MW,6:00-8:05pm,Miller
+CPSC 5210,Software Testing and Debugging,TTh,6:00-8:05pm,McKee
+CPSC 5220,User Experience Design,MW,3:40-5:45pm,Kong
+CPSC 5240,Software as a Service,MW,6:00-8:05pm,Yi
+CPSC 5300,Physical Database Design & Optimization,MW,3:40-5:45pm,Lundeen
+CPSC 5320,Visual Analytics,Th,6:00-8:40pm,Kong
+CPSC 5330,Big Data Analytics,T,6:00-8:40pm,Hanks
+CPSC 5400,Compiler Principles & Techniques,TTh,3:45-5:50pm,LeBlanc
+CPSC 5510,Computer Networks,TTh,6:00-8:05pm,Lau
+CPSC 5890,Seminar,W,6:00-8:40pm,Milkowski
+CPSC 5910,Graphics/Game Project,TTh,3:45-5:50pm,Bloomenthal
